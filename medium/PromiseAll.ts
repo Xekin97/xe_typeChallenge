@@ -17,10 +17,14 @@ type PromiseAll = <T extends readonly MaybePromise<unknown>[]>(
   promises: T
 ) => Promise<MaybePromiseValueArr<T>>;
 
-const a = 1 as const;
-const b = Promise.resolve(2 as const);
-const c = new Promise<5>((res) => setTimeout(res, 1000, 5));
+const TestPromiseAllCaseA = 1 as const;
+const TestPromiseAllCaseB = Promise.resolve(2 as const);
+const TestPromiseAllCaseC = new Promise<5>((res) => setTimeout(res, 1000, 5));
 
-function promiseAll(promises) {}
+const promiseAll: PromiseAll = {} as any;
 // Promise<[1, 2, 5]>
-const result = (promiseAll as PromiseAll)([a, b, c] as const);
+const TestPromiseAllRes = (promiseAll as PromiseAll)([
+  TestPromiseAllCaseA,
+  TestPromiseAllCaseB,
+  TestPromiseAllCaseC,
+] as const);

@@ -16,8 +16,8 @@ interface TestLookUpB {
   b: Record<any, any>;
 }
 
-// TestLookUpA
-type a = LookUp<TestLookUpA | TestLookUpB, "number">;
+// expected to TestLookUpA
+type TestLookUpResA = LookUp<TestLookUpA | TestLookUpB, "number">;
 
-// TestLookUpB
-type b = LookUp<TestLookUpA | TestLookUpB, "obj">;
+// expected to TestLookUpB
+type TestLookUpResB = LookUp<TestLookUpA | TestLookUpB, "obj">;
