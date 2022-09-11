@@ -5,7 +5,7 @@ const ROOT_PATH = 'https://github.com/Xekin97/xe_typeChallenge/tree/master'
 
 
 function getFileTitle (filename, diffcult) {
-    if (!filename) return '\t'
+    if (!filename) return '&nbsp;'
     return `[${filename.replace('.ts', '')}](${ROOT_PATH}/${diffcult}/${filename})`
 }
 
