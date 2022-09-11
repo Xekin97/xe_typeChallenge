@@ -1,29 +1,29 @@
 ## Xekin's TypeChallenge
 Easy|Medium|Hard
 --|:--:|--:
-[Awaited](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Awaited.ts)|[Absolute](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Absolute.ts)|abc
-[Concat](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Concat.ts)|[AnyOf](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/AnyOf.ts)|abc
-[Exclude](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Exclude.ts)|[AppendArgument](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/AppendArgument.ts)|abc
-[FirstOfArray](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/FirstOfArray.ts)|[AppendToObject](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/AppendToObject.ts)|abc
-[If](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/If.ts)|[Capitalize](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Capitalize.ts)|abc
-[Includes](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Includes.ts)|[Chainable](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Chainable.ts)|abc
-[LengthOfTuple](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/LengthOfTuple.ts)|[DeepReadonly](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/DeepReadonly.ts)|abc
-[Parameters](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Parameters.ts)|[Diff](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Diff.ts)|abc
-[Pick](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Pick.ts)|[Flattern](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Flattern.ts)|abc
-[Push](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Push.ts)|[GetReturnType](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/GetReturnType.ts)|abc
-[Readonly](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Readonly.ts)|[IsNever](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/IsNever.ts)|abc
-[TupleToObject](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/TupleToObject.ts)|[IsUnion](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/IsUnion.ts)|abc
-[Unshift](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Unshift.ts)|[KebabCase](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/KebabCase.ts)|abc
-abc|[LastOfArray](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/LastOfArray.ts)|abc
-abc|[LengthOfString](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/LengthOfString.ts)|abc
-abc|[Merge](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Merge.ts)|abc
-abc|[Omit](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Omit.ts)|abc
-abc|[Permutation](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Permutation.ts)|abc
-abc|[Pop](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Pop.ts)|abc
-abc|[PromiseAll](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/PromiseAll.ts)|abc
-abc|[Readonly2](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Readonly2.ts)|abc
-abc|[Replace&ReplaceAll](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Replace&ReplaceAll.ts)|abc
-abc|[StringToUnion](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/StringToUnion.ts)|abc
-abc|[TrimLeft&Trim](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/TrimLeft&Trim.ts)|abc
-abc|[TupleToUnion](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/TupleToUnion.ts)|abc
-abc|[TypeLookUp](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/TypeLookUp.ts)|abc
+[Awaited](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Awaited.ts)|[Absolute](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Absolute.ts)|	
+[Concat](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Concat.ts)|[AnyOf](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/AnyOf.ts)|	
+[Exclude](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Exclude.ts)|[AppendArgument](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/AppendArgument.ts)|	
+[FirstOfArray](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/FirstOfArray.ts)|[AppendToObject](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/AppendToObject.ts)|	
+[If](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/If.ts)|[Capitalize](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Capitalize.ts)|	
+[Includes](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Includes.ts)|[Chainable](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Chainable.ts)|	
+[LengthOfTuple](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/LengthOfTuple.ts)|[DeepReadonly](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/DeepReadonly.ts)|	
+[Parameters](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Parameters.ts)|[Diff](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Diff.ts)|	
+[Pick](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Pick.ts)|[Flattern](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Flattern.ts)|	
+[Push](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Push.ts)|[GetReturnType](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/GetReturnType.ts)|	
+[Readonly](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Readonly.ts)|[IsNever](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/IsNever.ts)|	
+[TupleToObject](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/TupleToObject.ts)|[IsUnion](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/IsUnion.ts)|	
+[Unshift](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Unshift.ts)|[KebabCase](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/KebabCase.ts)|	
+	|[LastOfArray](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/LastOfArray.ts)|	
+	|[LengthOfString](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/LengthOfString.ts)|	
+	|[Merge](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Merge.ts)|	
+	|[Omit](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Omit.ts)|	
+	|[Permutation](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Permutation.ts)|	
+	|[Pop](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Pop.ts)|	
+	|[PromiseAll](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/PromiseAll.ts)|	
+	|[Readonly2](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Readonly2.ts)|	
+	|[Replace&ReplaceAll](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Replace&ReplaceAll.ts)|	
+	|[StringToUnion](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/StringToUnion.ts)|	
+	|[TrimLeft&Trim](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/TrimLeft&Trim.ts)|	
+	|[TupleToUnion](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/TupleToUnion.ts)|	
+	|[TypeLookUp](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/TypeLookUp.ts)|	
