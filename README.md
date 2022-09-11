@@ -1,5 +1,6 @@
 ## Xekin's TypeChallenge
 Easy|Medium|Hard
+--|:--:|--:
 [Awaited](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Awaited.ts)|[Absolute](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/Absolute.ts)|
 [Concat](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Concat.ts)|[AnyOf](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/AnyOf.ts)|
 [Exclude](https://github.com/Xekin97/xe_typeChallenge/tree/master/easy/Exclude.ts)|[AppendArgument](https://github.com/Xekin97/xe_typeChallenge/tree/master/medium/AppendArgument.ts)|

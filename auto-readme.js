@@ -13,7 +13,7 @@ async function main () {
 
     const ws = fs.createWriteStream(resolve(__dirname, './README.md'))
 
-    let content = "## Xekin's TypeChallenge\nEasy|Medium|Hard\n"
+    let content = "## Xekin's TypeChallenge\nEasy|Medium|Hard\n--|:--:|--:\n"
 
     console.log('自动写入 readme 开始')
 
