@@ -17,7 +17,7 @@ async function main () {
 
     content += "### Easy\n"
     ezFiles.forEach(filename => {
-        content += `(${filename.replace('.ts', '')})[${ROOT_PATH}/${filename}]\n`
+        content += `[${filename.replace('.ts', '')}](${ROOT_PATH}/${filename})\n`
     })
 
     console.log('读取 medium 文件夹')
@@ -25,7 +25,7 @@ async function main () {
     const mdFiles = await fs.promises.readdir(resolve(__dirname, './medium'))
     content += "### Medium\n"
     mdFiles.forEach(filename => {
-        content += `(${filename.replace('.ts', '')})[${ROOT_PATH}/${filename}]\n`
+        content += `[${filename.replace('.ts', '')}](${ROOT_PATH}/${filename})\n`
     })
     
     ws.write(content, "utf-8")
