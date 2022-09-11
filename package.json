@@ -1,0 +1,19 @@
+{
+  "name": "xe_typechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auto-readme.js",
+  "scripts": {
+    "build": "node ./auto-readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xekin97/xe_typeChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xekin97/xe_typeChallenge/issues"
+  },
+  "homepage": "https://github.com/Xekin97/xe_typeChallenge#readme"
+}
