@@ -42,7 +42,6 @@ type SimpleVue = <
 }) => any;
 
 // ②
-
 type GetC<C> = {
 	[key in keyof C]: C[key] extends (...args: any[]) => infer R ? R : C[key];
 };
